@@ -1,4 +1,4 @@
-# Contributing to Security Headers Guide
+# ✍️ Contributing to Security Headers Guide
 
 Thank you for considering contributing to the Security Headers Guide! We welcome your contributions to help improve this project.
 
