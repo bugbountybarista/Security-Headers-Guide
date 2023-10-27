@@ -32,7 +32,7 @@ Feel free to navigate to specific headers to learn more about their purpose, con
 
 ## Contributing
 
-We welcome contributions to enhance and expand this guide. If you have insights, examples, or additional security headers you'd like to include, please [contribute](CONTRIBUTING.md).
+We welcome contributions to enhance and expand this guide. If you have insights, examples, or additional security headers you'd like to include, please [contribute](contributing.md).
 
 ## License
 
